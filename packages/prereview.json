@@ -1,0 +1,94 @@
+[
+  {
+    "name":"priority / high",
+    "color":"#f584a3"
+  },
+  {
+    "name":"priority / low",
+    "color":"#fde2e9"
+  },
+  {
+    "name":"priority / medium",
+    "color":"#f9b3c6"
+  },
+  {
+    "name":"priority / urgent",
+    "color":"#ef3d6e"
+  },
+  {
+    "name":"scope / admin",
+    "color":"#09b4b7"
+  },
+  {
+    "name":"scope / community",
+    "color":"#09b4b7"
+  },
+  {
+    "name":"scope / design",
+    "color":"#09b4b7"
+  },
+  {
+    "name":"scope / development",
+    "color":"#09b4b7"
+  },
+  {
+    "name":"scope / devops",
+    "color":"#09b4b7"
+  },
+  {
+    "name":"scope / docs",
+    "color":"#09b4b7"
+  },
+  {
+    "name":"status / assigned",
+    "color":"#13c0f4"
+  },
+  {
+    "name":"status / available",
+    "color":"#13c0f4"
+  },
+  {
+    "name":"status / blocked",
+    "color":"#13c0f4"
+  },
+  {
+    "name":"status / ignored",
+    "color":"#13c0f4"
+  },
+  {
+    "name":"status / in-progress",
+    "color":"#13c0f4"
+  },
+  {
+    "name":"status / needs-review",
+    "color":"#13c0f4"
+  },
+  {
+    "name":"status / needs-triage",
+    "color":"#13c0f4"
+  },
+  {
+    "name":"status / on-hold",
+    "color":"#13c0f4"
+  },
+  {
+    "name":"type / bug",
+    "color":"#86e891"
+  },
+  {
+    "name":"type / enhancement",
+    "color":"#86e891"
+  },
+  {
+    "name":"type / help",
+    "color":"#86e891"
+  },
+  {
+    "name":"type / rfc",
+    "color":"#86e891"
+  },
+  {
+    "name":"type / task",
+    "color":"#86e891"
+  }
+]
